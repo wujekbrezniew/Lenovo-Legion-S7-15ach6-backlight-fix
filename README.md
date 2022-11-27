@@ -9,4 +9,4 @@ This is systemd service to fix backlight control of Lenovo Legion s7 15ach6 lapt
 
 # How to remove
 `sudo systemd disable ls7_15ach6_backlight` <br />
-`sudo rm 755 ls7_15ach6_backlight.s*`
+`sudo rm ls7_15ach6_backlight.s*`
