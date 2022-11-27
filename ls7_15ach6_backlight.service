@@ -1,0 +1,8 @@
+[Unit]
+Description=ls7_15ach6_backlight
+[Service]
+Type=simple
+ExecStart=./ls7_15ach6_backlight.sh
+
+[Install]
+WantedBy=multi-user.target
